@@ -1,0 +1,22 @@
+*{
+    background-color: pink;
+}
+.img{
+    height:50%;
+    border-radius:5%;
+    object-fit: cover;
+    border-width: 10px;
+    border-color:lavender;
+    border-style: solid;
+}
+.pwebsite{
+    display: flex;
+    align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.pwebsite-resume{
+    padding: 15px;
+    color:palevioletred;
+    background-color: antiquewhite;
+}
